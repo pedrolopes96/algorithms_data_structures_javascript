@@ -1,7 +1,5 @@
 // Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 
-"use strict";
-
 const ps = require("prompt-sync");
 const prompt = ps();
 
